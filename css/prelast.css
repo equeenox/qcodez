@@ -1,0 +1,92 @@
+    .prelast{
+        margin-top: 109px;
+    }
+    .prelast__container{
+        max-width: 1200px;
+        margin: auto;
+    }
+    .prelast__top{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .prelast__box{
+        display: flex;
+        max-width: 440px;
+    }
+    .prelast__title{font-family: Inter;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 24px;
+        color: #212B31
+    
+    }
+    .prelast__descr{font-family: Inter;
+
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #72787D;
+    }
+    .prelast__bot{
+        max-width: 850px;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 130px auto;
+        justify-content: space-between;
+        justify-content:center ;
+        flex-wrap: wrap;
+    }
+    .prelast__things{
+        margin:0  50px 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .prelast__things p{
+        max-width: 139px;
+        text-align: center;
+        color: #72787D;
+    }
+
+    .swipe{
+
+        width: 614px;
+        height: 516px;
+        left: 728px;
+        top: 8291px;
+        background: #F6F8F9;
+        border-radius: 5px;
+    }
+    .swipe__title{
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 48px;
+        color: #212B31;
+        max-width: 435px;
+        padding-top: 60px;
+        padding-left: 87px;
+    }
+    .chel{
+        display: flex;
+        align-items: center;
+        padding-left: 88px;
+    }
+    .fi{font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #212B31;
+    }
+    .pos{font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 19px;
+        
+        color: #72787D;        
+    }

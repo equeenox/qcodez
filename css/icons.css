@@ -1,0 +1,25 @@
+.icons {
+    margin-top: 148px;
+  }
+  .icons__name {
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 18px;
+    color: #212b31;
+  }
+  .icons__descr {
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 16px;
+    color: #72787d;
+  }
+  
+  .icons__content{
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .icons__box{
+      width: 325px;
+      text-align: center;
+      margin: 0 auto;
+  }

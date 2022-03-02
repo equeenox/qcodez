@@ -1,0 +1,19 @@
+.care__title{
+    font-family: Inter;
+font-weight: normal;
+font-size: 32px;
+line-height: 48px;
+color: #212B31;
+}
+.care__descr{
+    font-family: Inter;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+color: #72787D;
+}
+.care__content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 168px;
+}

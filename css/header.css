@@ -1,0 +1,38 @@
+.logo {
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #212b31;
+  }
+  .logo__img {
+    margin-right: 8px;
+  }
+  .nav {
+    display: flex;
+    align-items: center;
+    list-style: none;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 31px;
+  }
+  .nav li {
+    margin-left: 22px;
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 16px;
+    color: #72787d;
+    transition: 2s;
+  }
+  .nav li:hover {
+    transition: 0.2s;
+    color: #036fc7;
+  }
+  
+  .header__btn{
+    padding: 9px 20px;
+  }

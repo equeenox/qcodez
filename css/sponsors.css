@@ -1,0 +1,9 @@
+.whats__sponsors{
+    margin-top: 71px;
+}
+.sponsors__content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 56px auto;
+}

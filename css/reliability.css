@@ -1,0 +1,43 @@
+.reliability {
+    margin-top: 143px;
+}
+.reliability__content {
+    margin-top: 48px;
+  }
+.reliability__name {
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 18px;
+    color: #212b31;
+  }
+.reliability__descr {
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 16px;
+    color: #72787d;
+  }
+  
+  .reliability__content{
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .reliability__box{
+      width: 325px;
+      text-align: center;
+      margin: 0 auto;
+  }
+  .hands{
+      display: flex;
+      background: #F6F8F9;
+      border-radius: 5px;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 62px;
+  }
+  .hands__title{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #212B31;
+  }
