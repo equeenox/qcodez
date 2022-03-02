@@ -1,0 +1,35 @@
+
+.whats__name{
+    font-family: Inter;
+font-weight: normal;
+font-size: 18px;
+color: #212B31;
+}
+.whats__descr{
+    font-family: Inter;
+font-weight: normal;
+font-size: 16px;
+color: #72787D;
+max-width: 500px;}
+.whats__content{
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.whats__top{
+    display: flex;
+    flex-direction: column;
+    margin-top: 55px;
+}
+.whats__mid{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.whats__bottom{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}

@@ -1,0 +1,60 @@
+.btnBlack {
+    padding: 13px 25px;
+    background: #212b31;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #212b31;
+    transition: 2s;
+    margin-right: 8px;
+  }
+  
+  .btnBlack:hover {
+    background: white;
+    transition: 0.2s;
+    color: #212b31;
+  }
+  
+  .btnWhite {
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 13px 25px;
+    background: white;
+    color: #212b31;
+    border: 1px solid black;
+    transition: 2s;
+    margin-left: 8px;
+  }
+  
+  .btnWhite:hover {
+    background: black;
+    transition: 0.2s;
+    color: white;
+  }
+  
+  .container{
+      max-width: 1056px;
+      margin: 0 auto;
+  }
+  .title{
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 32px;
+    text-align: center;
+    color: #212B31;
+  }
+  .descr{
+    font-family: Inter;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787D;
+    text-align: center;
+  }
+  .yellowLine{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    background: yellow;
+    height: 60%;
+    width: 100%;
+  }

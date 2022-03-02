@@ -1,0 +1,26 @@
+.last{
+    margin-top: 149px;
+}
+.yellowpic{
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.yellowpic__content{
+    position: absolute;
+    width: 100%;
+
+}
+.yellowpic__title{
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    font-family: Inter;
+    font-weight: normal;
+    color: #212B31;
+}
+.yellowpic__btns{
+    text-align: center;
+}
